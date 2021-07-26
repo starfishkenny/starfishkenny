@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and welcome 👋
 
 <!--
 **starfishkenny/starfishkenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny)](https://github.com/starfishkenny/github-readme-stats)
+[![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues)](https://github.com/starfishkenny/github-readme-stats)
