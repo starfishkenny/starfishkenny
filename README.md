@@ -7,16 +7,6 @@
  
 </div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://starfishkenny.github.io/)](https://starfishkenny.github.io/)
-	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)](https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)
-	
-	
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starfish_kenny/)](https://www.instagram.com/starfish_kenny/)
-	
-	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngyoo.kim.94@gmail.com)](mailto:youngyoo.kim.94@gmail.com)
-
 
 - 🌱 I’m currently studying data analysis using Python
 - I'm interested in `Python`, `Investment`
@@ -41,4 +31,11 @@ Here are some ideas to get you started:
 -->
 
 
+<div align=center>
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://starfishkenny.github.io/)](https://starfishkenny.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)](https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starfish_kenny/)](https://www.instagram.com/starfish_kenny/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngyoo.kim.94@gmail.com)](mailto:youngyoo.kim.94@gmail.com)
+	
+</div>
