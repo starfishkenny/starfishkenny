@@ -1,4 +1,4 @@
-## Hello and welcome 👋
+## Hello and welcome 😃
 
 
 <!-- <div align=center> -->
@@ -31,8 +31,10 @@
 <!--<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp --> 
 </p>
 
-- 🌱 I’m currently studying data analysis using Python
-- I'm interested in `Python`, `Geospatial Analysis` & `Investment`
+### A little bit about myself
+- 🌱 I’m currently studying data analysis using `Python` (& possibly `R`)
+- ✨ I'm interested in mainly `Geospatial Analysis` & `Investment`
+
 
 <!-- [![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues&show_icons=true&theme=gotham)](https://github.com/starfishkenny/github-readme-stats)
 
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <h3 align="center"><b> 🌟You can also reach me by...🌟 </b></h3> -->
-<h3><b>🌟You can also reach me by...🌟</b></h3>
+<!-- <h3><b>🌟You can also reach me by...🌟</b></h3> -->
 
 <!-- <div align=center> -->
 <div>
