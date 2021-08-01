@@ -1,4 +1,4 @@
-# Hi there and welcome 👋
+## Hi there and welcome 👋
 
 - 🌱 I’m currently studying data analysis using Python
 - 
