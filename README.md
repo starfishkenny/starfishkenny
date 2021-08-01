@@ -42,16 +42,16 @@
 	
 </div>
 
-### 🖊️ Education & Studies
+#### 🖊️ Education & Studies
 - Majored in International Economics & Law
 - 아시아경제 청년취업아카데미 산업융합 빅데이터 분석가 양성과정 (2020.07 ~ 2020.10)
-- I’m currently studying data analysis using `Python`
+- Currently studying data analysis using `Python`
 
-### ✨ Interests
+#### ✨ Interests
 - Main interest in `Geospatial Analysis` & `Investment`
 - But also interested in `Economics`, `Music`, `Movies`, etc.
 
-### 📜 Certificates
+#### 📜 Certificates
 - ADsP (데이터분석준전문가)
 - SQLD (SQL개발자)
 
