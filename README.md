@@ -7,7 +7,8 @@
  
 </div>
 
-<h3 align="center"><b>📫 How to reach me 📫</b></h3>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,7 +23,8 @@
 </p>
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+<h3 align="center"><b>📫 How to reach me 📫</b></h3>
 
 <div align=center>
 
