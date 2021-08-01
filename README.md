@@ -11,7 +11,7 @@
 
 <!-- <h3 align="center"><b>🛠Tech Stack🛠</b></h3> -->
 
-<h3><b>🛠Tech Stack🛠</b></h3>
+<h3><b>🛠 Tech Stack</b></h3>
 
 <!-- <p align="center"> -->
 <p>
@@ -31,9 +31,28 @@
 <!--<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp --> 
 </p>
 
-### A little bit about myself
-- 🌱 I’m currently studying data analysis using `Python` (& possibly `R`)
-- ✨ I'm interested in mainly `Geospatial Analysis` & `Investment`
+<h3><b>🛎️ Contact</b></h3>
+
+<div>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://starfishkenny.github.io/)](https://starfishkenny.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)](https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starfish_kenny/)](https://www.instagram.com/starfish_kenny/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngyoo.kim.94@gmail.com)](mailto:youngyoo.kim.94@gmail.com)
+	
+</div>
+
+### 🖊️ Education & Studies
+- Majored in International Economics & Law
+- 아시아경제 청년취업아카데미 산업융합 빅데이터 분석가 양성과정 (2020.07 ~ 2020.10)
+- I’m currently studying data analysis using `Python`
+
+### ✨ Interests
+- I'm interested in mainly `Geospatial Analysis` & `Investment`
+
+### 📜 Certificates
+- ADsP (데이터분석준전문가)
+- SQLD (SQL개발자)
 
 
 <!-- [![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues&show_icons=true&theme=gotham)](https://github.com/starfishkenny/github-readme-stats)
@@ -59,11 +78,4 @@ Here are some ideas to get you started:
 <!-- <h3><b>🌟You can also reach me by...🌟</b></h3> -->
 
 <!-- <div align=center> -->
-<div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://starfishkenny.github.io/)](https://starfishkenny.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)](https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starfish_kenny/)](https://www.instagram.com/starfish_kenny/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngyoo.kim.94@gmail.com)](mailto:youngyoo.kim.94@gmail.com)
-	
-</div>
