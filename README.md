@@ -52,8 +52,8 @@
 - But also interested in `Music`, `Movies`, etc.
 
 #### 📜 Certificates
-- SQLD (SQL개발자) (2021.06)
-- ADsP (데이터분석준전문가) (2021.04)
+- SQLD(SQL개발자) (2021.06)
+- ADsP(데이터분석준전문가) (2021.04)
 
 
 <!-- [![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues&show_icons=true&theme=gotham)](https://github.com/starfishkenny/github-readme-stats)
