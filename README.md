@@ -1,4 +1,4 @@
-## Hello and welcome 😃
+## Hello & Welcome 😃
 
 
 <!-- <div align=center> -->
