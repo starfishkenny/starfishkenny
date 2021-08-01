@@ -1,4 +1,4 @@
-## Hello and Welcome 👋
+## Hello and welcome 👋
 
 - 🌱 I’m currently studying data analysis using Python
 - I'm interested in `Python`, `Investment`
