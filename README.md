@@ -1,8 +1,6 @@
 ## Hi there and welcome 👋
 
 - 🌱 I’m currently studying data analysis using Python
-- 
-
 
 <!-- [![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues&show_icons=true&theme=gotham)](https://github.com/starfishkenny/github-readme-stats)
 
