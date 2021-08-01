@@ -1,19 +1,29 @@
 ## Hello and welcome 👋
 
 
-<div align=center>
+<!-- <div align=center> -->
+
+<div>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarfishkenny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
  
 </div>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<!-- <h3 align="center"><b>🛠Tech Stack🛠</b></h3> -->
 
-<p align="center">
+<h3><b>🛠Tech Stack🛠</b></h3>
+
+<!-- <p align="center"> -->
+<p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=Folium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> -->
+
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp -->
@@ -21,24 +31,8 @@
 <!--<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp --> 
 </p>
 
-
-
-<h3 align="center"><b>📫 How to reach me 📫</b></h3>
-
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://starfishkenny.github.io/)](https://starfishkenny.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)](https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starfish_kenny/)](https://www.instagram.com/starfish_kenny/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngyoo.kim.94@gmail.com)](mailto:youngyoo.kim.94@gmail.com)
-	
-</div>
-
-
-
-
 - 🌱 I’m currently studying data analysis using Python
-- I'm interested in `Python`, `Investment`
+- I'm interested in `Python`, `Geospatial Analysis` & `Investment`
 
 <!-- [![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues&show_icons=true&theme=gotham)](https://github.com/starfishkenny/github-readme-stats)
 
@@ -59,4 +53,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- <h3 align="center"><b> 🌟You can also reach me by...🌟 </b></h3> -->
+<h3><b>🌟You can also reach me by...🌟</b></h3>
 
+<!-- <div align=center> -->
+<div>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://starfishkenny.github.io/)](https://starfishkenny.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)](https://www.linkedin.com/in/youngyoo-kim-8a1ba017b/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/starfish_kenny/)](https://www.instagram.com/starfish_kenny/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngyoo.kim.94@gmail.com)](mailto:youngyoo.kim.94@gmail.com)
+	
+</div>
