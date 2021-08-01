@@ -48,7 +48,8 @@
 - I’m currently studying data analysis using `Python`
 
 ### ✨ Interests
-- I'm interested in mainly `Geospatial Analysis` & `Investment`
+- Main interest in `Geospatial Analysis` & `Investment`
+- But also interested in `Economics`, `Music`, `Movies`, etc.
 
 ### 📜 Certificates
 - ADsP (데이터분석준전문가)
