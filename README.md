@@ -1,6 +1,6 @@
 # Hi there and welcome 👋
 
-🌱 I’m currently studying data analysis using Python
+- 🌱 I’m currently studying data analysis using Python
 
 <!--
 **starfishkenny/starfishkenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
