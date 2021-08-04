@@ -11,7 +11,7 @@
 
 <!-- <h3 align="center"><b>🛠Tech Stack🛠</b></h3> -->
 
-<h3><b>🛠 Tech Stack</b></h3>
+<h3><b>🛠 Stack</b></h3>
 
 <!-- <p align="center"> -->
 <p>
