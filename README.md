@@ -49,7 +49,7 @@
 
 #### ✨ Interests
 - Main interest in `Geospatial Analysis`, `Economics` &`Investment`
-- But also interested in `Music`, `Movies`, etc.
+- Also interested in `Music`, `Movies`, etc.
 
 #### 📜 Certificates
 - SQLD(SQL개발자) (2021.06)
