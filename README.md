@@ -48,7 +48,7 @@
 - Currently studying data analysis using `Python`
 
 #### ✨ Interests
-- Main interest in `Geospatial Analysis`, `Economics` &`Investment`
+- Interested in studying `Geospatial Analysis`, `Economics` & `Investment`
 - Also interested in `Music`, `Movies`, etc.
 
 #### 📜 Certificates
