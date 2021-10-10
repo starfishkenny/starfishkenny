@@ -43,7 +43,7 @@
 </div>
 
 #### 🖊️ Education & Studies
-- Graduated from HUFS(한국외국어대학교) & Majored in International Economics & Law
+- HUFS (한국외국어대학교) - Major: International Economics & Law / Minor: English Linguistics (2013.03 ~ 2021.02)
 - 아시아경제 청년취업아카데미 산업융합 빅데이터 분석가 양성과정 (2020.07 ~ 2020.10)
 - Currently studying data analysis using `Python`
 
