@@ -52,6 +52,7 @@
 - Also interested in listening to music, watching movies and reading books.
 
 #### 📜 Certificates
+- `빅데이터분석기사` (2021.12)
 - `SQLD(SQL개발자)` (2021.06)
 - `ADsP(데이터분석준전문가)` (2021.04)
 
