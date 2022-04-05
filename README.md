@@ -43,21 +43,23 @@
 </div>
 
 #### 💻 Career
-- Nonghyup Bank Data Business Dept. Junior Assistant
+- Nonghyup Bank Data Business Dept. Junior Assistant (2022.02~)
 
 #### 🖊️ Education & Studies
 - Currently studying data analysis using `Python`
 - 아시아경제 청년취업아카데미 산업융합 빅데이터 분석가 양성과정 (2020.07 ~ 2020.10)
 - HUFS (한국외국어대학교) (2013.03 ~ 2021.02)
 
-#### ✨ Interests
-- Interested in `Geospatial Analysis` & `Investment`
-- Also passionate about music, movies and books
-
 #### 📜 Certificates
 - `빅데이터분석기사` (2021.12)
 - `SQLD(SQL개발자)` (2021.06)
 - `ADsP(데이터분석준전문가)` (2021.04)
+
+#### ✨ Interests
+- Interested in `Geospatial Analysis` & `Investment`
+- Also passionate about music, movies and books
+
+
 
 
 <!-- [![starfishkenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=starfishkenny&hide=issues&show_icons=true&theme=gotham)](https://github.com/starfishkenny/github-readme-stats)
