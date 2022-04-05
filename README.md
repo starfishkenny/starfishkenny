@@ -42,6 +42,9 @@
 	
 </div>
 
+#### 💻 Career
+- Nonghyup Bank Data Business Dept. Junior Assistant
+
 #### 🖊️ Education & Studies
 - Currently studying data analysis using `Python`
 - 아시아경제 청년취업아카데미 산업융합 빅데이터 분석가 양성과정 (2020.07 ~ 2020.10)
@@ -49,7 +52,7 @@
 
 #### ✨ Interests
 - Interested in `Geospatial Analysis` & `Investment`
-- Also interested in listening to music, watching movies and reading books.
+- Also passionate about music, movies and books
 
 #### 📜 Certificates
 - `빅데이터분석기사` (2021.12)
